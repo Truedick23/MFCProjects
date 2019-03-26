@@ -1,0 +1,35 @@
+﻿生成启动时间为 2018.12.4 AM 9:18:55。
+     1>项目“D:\MFCProjects\cg2018LFr2DTrans\cg2018LFr2DTrans\cg2018LFr2DTrans.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\cg2018LFr2DTrans.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         e:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\cg2018LFr2DTrans.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt cg2018LFr2DTransDoc.cpp
+         cg2018LFr2DTransDoc.cpp
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         e:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\MFCProjects\cg2018LFr2DTrans\Debug\cg2018LFr2DTrans.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\cg2018LFr2DTrans.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\MFCProjects\cg2018LFr2DTrans\Debug\cg2018LFr2DTrans.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\MFCProjects\cg2018LFr2DTrans\Debug\cg2018LFr2DTrans.lib" /MACHINE:X86 Debug\cg2018LFr2DTrans.res
+         Debug\cg2018LFr2DTrans.exe.embed.manifest.res
+         Debug\cg2018LFr2DTrans.obj
+         Debug\cg2018LFr2DTransDoc.obj
+         Debug\cg2018LFr2DTransView.obj
+         Debug\CgSelectControl.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\cg2018LFr2DTrans.exe.embed.manifest" /manifest Debug\cg2018LFr2DTrans.exe.intermediate.manifest "e:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         cg2018LFr2DTrans.vcxproj -> D:\MFCProjects\cg2018LFr2DTrans\Debug\cg2018LFr2DTrans.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\cg2018LFr2DTrans.unsuccessfulbuild”。
+         正在对“Debug\cg2018LFr2DTrans.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\MFCProjects\cg2018LFr2DTrans\cg2018LFr2DTrans\cg2018LFr2DTrans.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.48

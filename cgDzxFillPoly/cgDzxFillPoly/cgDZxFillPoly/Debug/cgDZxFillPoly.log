@@ -1,0 +1,46 @@
+﻿生成启动时间为 2018.11.16 AM 8:25:14。
+     1>项目“D:\MFCProjects\cgDZxFillPoly\cgDZxFillPoly\cgDZxFillPoly\cgDZxFillPoly.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\cgDZxFillPoly.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         e:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\cgDZxFillPoly.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt cgDZxFillPolyView.cpp
+         cgDZxFillPolyView.cpp
+     1>d:\mfcprojects\cgdzxfillpoly\cgdzxfillpoly\cgdzxfillpoly\cgdzxfillpolyview.cpp(285): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+     1>d:\mfcprojects\cgdzxfillpoly\cgdzxfillpoly\cgdzxfillpoly\cgdzxfillpolyview.cpp(285): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\mfcprojects\cgdzxfillpoly\cgdzxfillpoly\cgdzxfillpoly\cgdzxfillpolyview.cpp(287): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+     1>d:\mfcprojects\cgdzxfillpoly\cgdzxfillpoly\cgdzxfillpoly\cgdzxfillpolyview.cpp(287): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\mfcprojects\cgdzxfillpoly\cgdzxfillpoly\cgdzxfillpoly\cgdzxfillpolyview.cpp(326): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\mfcprojects\cgdzxfillpoly\cgdzxfillpoly\cgdzxfillpoly\cgdzxfillpolyview.cpp(370): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\mfcprojects\cgdzxfillpoly\cgdzxfillpoly\cgdzxfillpoly\cgdzxfillpolyview.cpp(371): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\mfcprojects\cgdzxfillpoly\cgdzxfillpoly\cgdzxfillpoly\cgdzxfillpolyview.cpp(375): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>d:\mfcprojects\cgdzxfillpoly\cgdzxfillpoly\cgdzxfillpoly\cgdzxfillpolyview.cpp(365): warning C4101: “x”: 未引用的局部变量
+     1>d:\mfcprojects\cgdzxfillpoly\cgdzxfillpoly\cgdzxfillpoly\cgdzxfillpolyview.cpp(438): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\mfcprojects\cgdzxfillpoly\cgdzxfillpoly\cgdzxfillpoly\cgdzxfillpolyview.cpp(439): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         e:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\MFCProjects\cgDZxFillPoly\cgDZxFillPoly\Debug\cgDZxFillPoly.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\cgDZxFillPoly.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\MFCProjects\cgDZxFillPoly\cgDZxFillPoly\Debug\cgDZxFillPoly.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\MFCProjects\cgDZxFillPoly\cgDZxFillPoly\Debug\cgDZxFillPoly.lib" /MACHINE:X86 Debug\cgDZxFillPoly.res
+         Debug\cgDZxFillPoly.exe.embed.manifest.res
+         Debug\cgDZxFillPoly.obj
+         Debug\cgDZxFillPolyDoc.obj
+         Debug\cgDZxFillPolyView.obj
+         Debug\CgSelectControl.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\cgDZxFillPoly.exe.embed.manifest" /manifest Debug\cgDZxFillPoly.exe.intermediate.manifest "e:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         cgDZxFillPoly.vcxproj -> D:\MFCProjects\cgDZxFillPoly\cgDZxFillPoly\Debug\cgDZxFillPoly.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\cgDZxFillPoly.unsuccessfulbuild”。
+         正在对“Debug\cgDZxFillPoly.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\MFCProjects\cgDZxFillPoly\cgDZxFillPoly\cgDZxFillPoly\cgDZxFillPoly.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.75

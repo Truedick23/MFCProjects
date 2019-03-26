@@ -1,0 +1,61 @@
+﻿生成启动时间为 2018.10.24 PM 9:25:18。
+     1>项目“D:\MFCProjects\cgDzxDrawLine\cgDzxDrawLine\cgDzxDrawLine\cgDzxDrawLine.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\cgDzxDrawLine.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         e:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\cgDzxDrawLine.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt CgSelectControl.cpp cgDzxDrawLine.cpp cgDzxDrawLineDoc.cpp cgDzxDrawLineView.cpp
+         cgDzxDrawLineView.cpp
+     1>d:\mfcprojects\cgdzxdrawline\cgdzxdrawline\cgdzxdrawline\cgdzxdrawlineview.cpp(99): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\mfcprojects\cgdzxdrawline\cgdzxdrawline\cgdzxdrawline\cgdzxdrawlineview.cpp(100): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\mfcprojects\cgdzxdrawline\cgdzxdrawline\cgdzxdrawline\cgdzxdrawlineview.cpp(125): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\mfcprojects\cgdzxdrawline\cgdzxdrawline\cgdzxdrawline\cgdzxdrawlineview.cpp(126): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\mfcprojects\cgdzxdrawline\cgdzxdrawline\cgdzxdrawline\cgdzxdrawlineview.cpp(148): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\mfcprojects\cgdzxdrawline\cgdzxdrawline\cgdzxdrawline\cgdzxdrawlineview.cpp(258): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\mfcprojects\cgdzxdrawline\cgdzxdrawline\cgdzxdrawline\cgdzxdrawlineview.cpp(245): warning C4101: “e”: 未引用的局部变量
+     1>d:\mfcprojects\cgdzxdrawline\cgdzxdrawline\cgdzxdrawline\cgdzxdrawlineview.cpp(291): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\mfcprojects\cgdzxdrawline\cgdzxdrawline\cgdzxdrawline\cgdzxdrawlineview.cpp(307): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>d:\mfcprojects\cgdzxdrawline\cgdzxdrawline\cgdzxdrawline\cgdzxdrawlineview.cpp(320): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\mfcprojects\cgdzxdrawline\cgdzxdrawline\cgdzxdrawline\cgdzxdrawlineview.cpp(325): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\mfcprojects\cgdzxdrawline\cgdzxdrawline\cgdzxdrawline\cgdzxdrawlineview.cpp(325): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\mfcprojects\cgdzxdrawline\cgdzxdrawline\cgdzxdrawline\cgdzxdrawlineview.cpp(326): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\mfcprojects\cgdzxdrawline\cgdzxdrawline\cgdzxdrawline\cgdzxdrawlineview.cpp(326): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\mfcprojects\cgdzxdrawline\cgdzxdrawline\cgdzxdrawline\cgdzxdrawlineview.cpp(340): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\mfcprojects\cgdzxdrawline\cgdzxdrawline\cgdzxdrawline\cgdzxdrawlineview.cpp(345): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\mfcprojects\cgdzxdrawline\cgdzxdrawline\cgdzxdrawline\cgdzxdrawlineview.cpp(346): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+         cgDzxDrawLineDoc.cpp
+     1>d:\mfcprojects\cgdzxdrawline\cgdzxdrawline\cgdzxdrawline\cgdzxdrawlinedoc.cpp(43): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>d:\mfcprojects\cgdzxdrawline\cgdzxdrawline\cgdzxdrawline\cgdzxdrawlinedoc.cpp(44): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>d:\mfcprojects\cgdzxdrawline\cgdzxdrawline\cgdzxdrawline\cgdzxdrawlinedoc.cpp(45): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+         CgSelectControl.cpp
+         正在生成代码...
+         正在编译...
+         cgDzxDrawLine.cpp
+         正在生成代码...
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         e:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\MFCProjects\cgDzxDrawLine\cgDzxDrawLine\Debug\cgDzxDrawLine.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\cgDzxDrawLine.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\MFCProjects\cgDzxDrawLine\cgDzxDrawLine\Debug\cgDzxDrawLine.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\MFCProjects\cgDzxDrawLine\cgDzxDrawLine\Debug\cgDzxDrawLine.lib" /MACHINE:X86 Debug\cgDzxDrawLine.res
+         Debug\cgDzxDrawLine.exe.embed.manifest.res
+         Debug\cgDzxDrawLine.obj
+         Debug\cgDzxDrawLineDoc.obj
+         Debug\cgDzxDrawLineView.obj
+         Debug\CgSelectControl.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\cgDzxDrawLine.exe.embed.manifest" /manifest Debug\cgDzxDrawLine.exe.intermediate.manifest "e:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         cgDzxDrawLine.vcxproj -> D:\MFCProjects\cgDzxDrawLine\cgDzxDrawLine\Debug\cgDzxDrawLine.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\cgDzxDrawLine.unsuccessfulbuild”。
+         正在对“Debug\cgDzxDrawLine.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\MFCProjects\cgDzxDrawLine\cgDzxDrawLine\cgDzxDrawLine\cgDzxDrawLine.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.96
